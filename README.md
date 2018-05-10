@@ -1,5 +1,14 @@
 # custom-blockchain
 
+starting the Proof-of-Work demo:
+
+```
+git clone git@github.com:danielsmithdevelopment/custom-blockchain.git
+cd custom-blockchain
+npm install
+npm run dev-test
+```
+
 starting a 3-node cluster:
 
 ```
